@@ -1,1 +1,1 @@
-# Apollo-hospitals-patients-dashboard
+The Apollo Dashboard is an interactive Power BI report designed to provide insightful visualizations and key metrics for data-driven decision-making. It consolidates data from various sources and presents it in a user-friendly manner to enable stakeholders to monitor performance, identify trends, and make informed decisions.
